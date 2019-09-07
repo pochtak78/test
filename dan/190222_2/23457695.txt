@@ -1,0 +1,24 @@
+Lot number:	23457695
+VIN:	4T1BF1FK5DU724105
+Make:	TOYOTA
+Model:	CAMRY
+Year:	2013
+Final bid:	5675
+Sale status:	Sold
+Retail value:	11556
+Repaire value:	11024
+Auction date:	2018/12/21
+Odometer:	61176
+Odometer actual (yes/no):	yes
+Engine:	2.5L I4 FI DOHC 16V NF4
+Cylinders:	0
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	Unknown
+Color:	Black
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Rear, Right Front
+Run & drive (yes/no):	yes
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Car Starts
+Keys (yes/no):	yes
+Location: Miami-North (FL)
+Sale docs:	FL - CERTIFICATE OF DESTRUCTION

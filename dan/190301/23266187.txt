@@ -1,0 +1,25 @@
+Lot number:	23266187
+VIN:	1FMCU9G92FUB77169
+Make:	Ford
+Model:	ESCAPE
+Year:	2015
+Final bid:	2550
+Sale status:	Sold
+Retail value:	17064
+Repaire value:	13341
+Auction date:	2018/12/14
+Odometer:	37628 
+Odometer actual (yes/no):	yes
+Engine:	2.0L I4 FI DOHC 16V NF4
+Cylinders:	4
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	All-wheel Drive
+Color:	black
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Front end
+Run & drive (yes/no):	no
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Car Starts
+Keys (yes/no):	yes
+Location:	Northern New Jersey (NJ)
+Sale docs:	NJ - SALVAGE
+

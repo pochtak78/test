@@ -1,0 +1,25 @@
+Lot number:	25352249
+VIN:WA1LFAFPXFA135120
+Make:AUDI
+Model:Q5
+Year:2015
+Final bid:11100
+Sale status:Sold
+Retail value:27553
+Repaire value:19287
+Auction date:2019/02/15
+Odometer:0
+Odometer actual (yes/no):NOT ACTUAL
+Engine:2.0L I4 FI DOHC 16V NF4
+Cylinders:4
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):All-wheel Drive
+Color:black
+Loss(Collision, Other, Water, Theft, Fire):Collision
+Damage:Side
+Run & drive (yes/no):no
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):Wont Start
+Keys (yes/no):yes
+Location:VAN NUYS (CA)
+Sale docs:CA - SALVAGE CERTIFICATE
+

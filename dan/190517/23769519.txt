@@ -1,0 +1,25 @@
+Lot number: 23769519
+VIN:	ZAM57RTA0F1162011
+Model:	MASERATI
+Make:	GHIBLI
+Year:	2015
+Final bid:	9700
+Sale status:	Sold
+Retail value:	30052
+Repaire value:	32557
+Auction date:	2019/01/17
+Odometer:	34000
+Odometer actual (yes/no):	yes
+Engine:	3.0L V6 FI DOHC 24V NF4
+Cylinders:	6
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	All Wheel Drive
+Color:	white
+Loss:	Collision
+Damage:	Front end, Left Side
+Run & drive (yes/no):	no
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Car Starts
+Keys (yes/no):	yes
+Location:	Miami-North (FL)
+Sale docs:	FL - Certificate of destruction
+

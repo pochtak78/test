@@ -1,0 +1,24 @@
+Lot number:	23752940
+VIN:	YV440MDK1F2697645
+Make:	VOLVO
+Model:	XC60
+Year:	2015
+Final bid:	8050
+Sale status:	Sold
+Retail value:	20945
+Repaire value:	13472
+Auction date:	2018/12/05
+Odometer:	56393
+Odometer actual (yes/no):	yes
+Engine:	2.0L I4 FI DOHC 16V NF4
+Cylinders:	0
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	Unknown
+Color:	White
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Front end, Rear
+Run & drive (yes/no):	yes
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Car Starts
+Keys (yes/no):	yes
+Location: Albuquerque (NM)
+Sale docs:	NM - SALVAGE

@@ -1,0 +1,24 @@
+Lot number:	25292394
+VIN:	1C4RJFAG6FC954682
+Make:	JEEP
+Model:	GRAND CHEROKEE
+Year:	2015
+Final bid:	9625
+Sale status:	Sold
+Retail value:	23533
+Repaire value:	16779
+Auction date:	2019/07/01
+Odometer:	41863
+Odometer actual (yes/no):	yes
+Engine:	3.6L V6 FI DOHC 24V NF4
+Cylinders:	Unknown
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	4õ4 Drive
+Color:	Gray
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Front and Rear
+Run & drive (yes/no):	yes
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Car Starts
+Keys (yes/no):	yes
+Location: Long Island (NY)
+Sale docs:	NY - MV-907A

@@ -1,0 +1,25 @@
+Lot number:	24318483
+VIN:	JM1GJ1U6XE1146830
+Make:	MAZDA 
+Model:	6
+Year:	2014
+Final bid:	2975
+Sale status:	Sold
+Retail value:	10493
+Repaire value:	9531
+Auction date:	2019/03/01
+Odometer:	78305
+Odometer actual (yes/no):	yes
+Engine:	2.5L I4 FI DOHC 16V NF4
+Cylinders:	4
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	Front Wheel Drive
+Color:	White
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Front end, Left and Right Side
+Run & drive (yes/no):	yes
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Starts WJump
+Keys (yes/no):	yes
+Location:	New Orleans East (LA)
+Sale docs:	LA - SALVAGE
+

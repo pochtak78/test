@@ -1,0 +1,24 @@
+Lot number: 24118692
+VIN: WBA5A5C54GD529491
+Make: BMW
+Model: 528
+Year: 2016
+Final bid: 7250
+Sale status: Sold
+Retail value: 24248
+Repaire value:24316
+Auction date: 2019/03/01
+Odometer: 36012
+Odometer actual (yes/no): yes
+Engine: 2.0L I4 FI DOHC 16V NF4
+Cylinders: 4
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid): Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive): Rear Wheel Drive
+Color: white
+Loss(Collision, Other, Water, Theft, Fire): Collision
+Damage: Right Front, Undercarridge
+Run & drive (yes/no): no
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start): Car Starts
+Keys (yes/no): yes
+Location: Miami-North (FL)
+Sale docs: Florida - CERTIFICATE OF DESTRUCTION

@@ -1,0 +1,24 @@
+Lot number:	29642899
+VIN:	3VW5X7AT1EM800973
+Make:	VOLKSWAGEN
+Model:	BEETLE
+Year:	2014
+Final bid:	2200
+Sale status:	Sold
+Retail value:	10754
+Repaire value:	8430
+Auction date:	2019/04/15
+Odometer:       66032
+Odometer actual (yes/no):	yes
+Engine:	2.5L 5
+Cylinders:	5
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Gasoline
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	Front-Wheel Drive
+Color:	Yellow
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Front end
+Run & drive (yes/no):	yes
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Car Starts
+Keys (yes/no):	yes
+Location:	Phoenix, Arizona
+Sale docs:	Salvage

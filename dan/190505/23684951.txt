@@ -1,0 +1,24 @@
+Lot number:	23684951
+VIN:	3FA6P0SU9FR234173
+Make:	FORD 
+Model:	FUSION
+Year:	2015
+Final bid:	5525
+Sale status:	Sold
+Retail value:	15967
+Repaire value:	13975
+Auction date:	2019/03/07
+Odometer:	39976
+Odometer actual (yes/no):	yes
+Engine:	2.0L I4 FI DOHC 16V NF4
+Cylinders:	4
+Fuel(Gasoline, Diesel, Electric, Flexible Fuel, Hybrid):	Hybrid
+Drive line(Front Wheel Drive, Rear Wheel Drive, All-wheel Drive):	Front Wheel Drive
+Color:	Red
+Loss(Collision, Other, Water, Theft, Fire):	Collision
+Damage:	Rear
+Run & drive (yes/no):	no
+Starts(Car Starts, Cant Test, Didnt Test, Engine Damage, Starts WJump, Wont Start):	Cant Test
+Keys (yes/no):	no
+Location:	Baton Rouge (LA)
+Sale docs:	LA - SALVAGE
